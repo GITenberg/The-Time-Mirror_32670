@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35980
     wikipedia: http://www.gutenberg.org/browse/authors/s#a35927
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32670#The-Time-Mirror
 gutenberg_issued: '2010-06-03'
 gutenberg_type: Text
 identifiers:
